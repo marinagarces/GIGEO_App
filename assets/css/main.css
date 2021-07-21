@@ -21,6 +21,10 @@ body p {
   color: #91918D;
 }
 
+.card {
+  border-color: #fff;
+}
+
 /* Layout */
 /*Estilos para barra nav*/
 svg {
