@@ -11,6 +11,16 @@
 /*Paletas de Rosas*/
 /*Paleta de Celeste*/
 /* Base */
+body {
+  font-family: "Open Sans", serif;
+}
+body h1, body h5 {
+  font-weight: 700;
+}
+body p {
+  color: #91918D;
+}
+
 /* Layout */
 /*Estilos para barra nav*/
 svg {
@@ -34,6 +44,19 @@ section h4, section p {
   display: inline-flex;
 }
 
+@media (max-width: 600px) {
+  .section-button {
+    display: none;
+  }
+}
 /* Components */
+.section-button .section_button_color1 {
+  background-color: #13D2D9;
+  color: #fff;
+}
+.section-button .section_button_color2 {
+  background-color: #E97F72;
+  color: #fff;
+}
 
 /*# sourceMappingURL=main.css.map */

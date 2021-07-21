@@ -1,0 +1,9 @@
+body {
+  font-family: $fuente;
+  h1, h5 {
+    font-weight: $bold;
+  }
+  p {
+    color: $taupe-gray;
+  }
+}
