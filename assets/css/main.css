@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*Main SCSS*/
 /*Archivo de Manifiesto*/
 /* abstracts */
@@ -11,6 +12,28 @@
 /*Paleta de Celeste*/
 /* Base */
 /* Layout */
+/*Estilos para barra nav*/
+svg {
+  width: 25px;
+  color: #010B0B;
+}
+
+.navbar-brand img {
+  width: 150px;
+}
+
+/*Estilos para barra sección central*/
+section img {
+  width: 100%;
+}
+section .section_img_circle {
+  border-radius: 50%;
+  width: 25%;
+}
+section h4, section p {
+  display: inline-flex;
+}
+
 /* Components */
 
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,13 @@
+/*Estilos para barra sección central*/
+section {
+  img {
+    width: 100%;
+  }
+  .section_img_circle {
+    border-radius: 50%;
+    width: 25%;
+  }
+  h4, p {
+    display: inline-flex;
+  }
+}

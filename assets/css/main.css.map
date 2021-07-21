@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/main.scss","../sass/abstracts/_variables.scss"],"names":[],"mappings":"AAAA;AACA;AAEA;ACHA;AAEA;AAGA;AAMA;AAMA;AAEA;AAKA;AAIA;ADtBA;AAIA;AAIA","file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/main.scss","../sass/abstracts/_variables.scss","../sass/layout/_header.scss","../sass/layout/_main-section.scss"],"names":[],"mappings":";AAAA;AACA;AAEA;ACHA;AAEA;AAGA;AAMA;AAMA;AAEA;AAKA;AAIA;ADtBA;AAIA;AEVA;AACA;EACE;EACA,ODiBM;;;ACbN;EACE;;;ACRJ;AAEE;EACE;;AAEF;EACE;EACA;;AAEF;EACE;;;AHIJ","file":"main.css"}
